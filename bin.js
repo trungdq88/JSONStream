@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 var JSONStream = require('./')
 
 if(!module.parent && process.title !== 'browser') {
